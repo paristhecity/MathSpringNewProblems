@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>MathSpring Problem</title>
+    <style>
+        table, th, td {
+            text-align: center;
+            padding-left: 15px;
+            padding-right: 15px;
+            border-collapse: collapse;
+            vertical-align: center;
+        }
+        th, td {
+            border: 1px solid #DDD9E0;
+        }
+        div {
+            height: 600px;
+            width: 600px;
+        }
+    </style>
+</head>
+<body>
+<div id="container">
+<p> For each number in the table, select the box for any
+    multiple that describes the number. You may select
+    one or two boxes per row.</p>
+
+<form action="action_page.php" method="get">
+<table>
+    <tr>
+        <th>Number</th>
+        <th>Multiple of 4</th>
+        <th>Multiple of 7</th>
+    </tr>
+    <tr>
+        <td>16</td>
+        <td><input type="checkbox" name="option1" value="16a"></td>
+        <td><input type="checkbox" name="option2" value="16b"></td>
+    </tr>
+    <tr>
+        <td>28</td>
+        <td><input type="checkbox" name="option1" value="28a"></td>
+        <td><input type="checkbox" name="option2" value="28b"></td>
+    </tr>
+    <tr>
+        <td>42</td>
+        <td><input type="checkbox" name="option1" value="42a"></td>
+        <td><input type="checkbox" name="option2" value="42b"></td>
+    </tr>
+</table>
+    <br>
+    <input type="submit" value="Submit">
+</form>
+
+</div>
+</body>
+</html>
