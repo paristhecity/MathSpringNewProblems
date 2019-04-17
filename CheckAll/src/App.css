@@ -1,0 +1,31 @@
+.App {
+  text-align: left;
+  height: 90%;
+  width: 90%;
+  padding: 5%;
+}
+
+
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 16px;
+  color: black;
+  border: 2px solid lightgray;
+  box-shadow: 5px 5px lightgray;
+  padding: 1%;
+
+}
+
+.Question {
+
+  box-shadow: gray;
+
+}
+
+.Answers {
+
+}
+
