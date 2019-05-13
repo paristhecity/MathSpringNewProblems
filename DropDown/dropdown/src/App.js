@@ -1,26 +1,43 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {Component} from 'react';
+import Menu from './Menu.js';
 import './App.css';
+import Dropdown from "react-dropdown";
+import 'react-dropdown/style.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+const options = [">", "<", "="];
+const defaultOption = options[0];
+
+class App extends Component {
+
+    handleSubmit = formSubmitEvent => {
+        formSubmitEvent.preventDefault();
+        const intro = 'The chosen answer is: ';
+        alert(intro + "b");
+
+    }
+
+    render() {
+        return (
+            <div className="App">
+                <header className="App-header">
+                    <div className="Question">
+                        Select from the drop-down menus to correctly complete each comparison.
+                    </div>
+                    <br/>
+                    <form className="Answers" onSubmit={this.handleSubmit}>
+                        2.09
+                        <Dropdown width='10px' options={options} onChange={this.changeText} value={defaultOption} placeholder="Select an option"/>
+                        2.12
+
+                        <br />
+                        <input type="submit" value="Submit"/>
+                    </form>
+                </header>
+            </div>
+
+        );
+    }
+
 }
 
 export default App;
