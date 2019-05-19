@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Checkbox from './Checkbox';
 
-const items = [ <!-- This is where the answers would be -->
+const items = [
   'A. employees with office phone numbers ending in 3 and 7',
   'B. randomly selected employees in the cafeteria of one of the offices',
   'C. employees who have worked for the company for more than 10 years',
@@ -37,7 +37,7 @@ class App extends Component {
   createCheckbox = label => (
       <Checkbox
           label={label}
-                handleCheckboxChange={this.toggleCheckbox}
+          handleCheckboxChange={this.toggleCheckbox}
           key={label}
       />
   )
@@ -51,7 +51,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <div className="Question"> <!-- This is where the question would be -->
+          <div className="Question">
             A large company has offices in cities across the country.
             The facilities director of the company was asked to survey employees about their office furniture.
             Rather than survey all employees in the company, the director decided to take a sample of employees.

@@ -5,7 +5,14 @@
   padding: 5%;
 }
 
+.Dropdown-control {
+  width: fit-content;
+}
 
+.Dropdown-menu {
+
+  width: 100%;
+}
 
 .App-header {
   display: flex;
@@ -25,8 +32,11 @@
 
 }
 
-.Answers {
+.Problem {
 
+  display: inline-flex;
+  justify-content: space-between;
+  padding: 20px ;
 }
 
 

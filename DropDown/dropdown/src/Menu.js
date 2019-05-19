@@ -17,7 +17,7 @@ class Menu extends Component {
 
         this.showMenu = this.showMenu.bind(this);
         this.hideMenu = this.hideMenu.bind(this);
-        this.changeText = this.changeText.bind(this);
+        this.addResponse = this.addResponse.bind(this);
 
     };
 
@@ -35,9 +35,7 @@ class Menu extends Component {
         });
     }
 
-    changeText(event) {
-        alert();
-    }
+
 
     render() {
         return (
