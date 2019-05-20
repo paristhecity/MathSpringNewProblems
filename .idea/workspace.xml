@@ -3,11 +3,29 @@
   <component name="ChangeListManager">
     <list default="true" id="4f9a27f7-86e7-43cf-afd5-d1252fe89887" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CheckAll/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/dropdown/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/dropdown/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/dropdown/src/Menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/react-dropdown/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/react-dropdown/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/dropdown.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/dropdown.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/Menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/Option.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/Option.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -22,71 +40,7 @@
     <favorites_list name="MathSpringProblems" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DropDown/dropdown/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/react-dropdown/index.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DropDown/dropdown/src/Menu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="41" column="60" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DropDown/dropdown/src/App.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CheckAll/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/react-dropdown/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
-              <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -143,31 +97,12 @@
             <path>
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="CheckAll" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="CheckAll" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
               <item name="DropDown" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="DropDown" type="462c0819:PsiDirectoryNode" />
-              <item name="dropdown" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="DropDown" type="462c0819:PsiDirectoryNode" />
-              <item name="dropdown" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Original_CheckAll" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -319,7 +254,7 @@
       <workItem from="1556043284434" duration="1018000" />
       <workItem from="1557171338909" duration="745000" />
       <workItem from="1557172496229" duration="15364000" />
-      <workItem from="1558049357632" duration="2333000" />
+      <workItem from="1558049357632" duration="3194000" />
     </task>
     <servers />
   </component>
@@ -338,7 +273,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41691000" />
+    <option name="totallyTimeSpent" value="42552000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,22 +286,21 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.70280373" visible="true" weight="0.2867355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.70235544" visible="true" weight="0.2867355" />
       <window_info id="Structure" order="1" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
       <window_info id="Favorites" order="2" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
-      <window_info id="npm" order="3" sideWeight="0.29719627" side_tool="true" visible="true" weight="0.2867355" />
+      <window_info id="npm" order="3" sideWeight="0.29764453" side_tool="true" visible="true" weight="0.2867355" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4932486" visible="true" weight="0.26712328" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4932486" weight="0.26712328" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960285" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49959645" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4940429" weight="0.360274" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4940429" visible="true" weight="0.360274" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5067514" side_tool="true" weight="0.26712328" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -507,7 +441,7 @@
     <entry file="file://$PROJECT_DIR$/CheckAll/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DropDown/dropdown/package.json">
+    <entry file="file://$PROJECT_DIR$/DropDown/problem1/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/CheckAll/src/App.css">
@@ -544,17 +478,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DropDown/dropdown/src/Option.js">
+    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/Option.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="12" selection-start-column="12" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DropDown/dropdown/src/App.js">
+    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="140">
+          <caret line="37" column="16" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -563,14 +497,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-dropdown/index.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="390">
           <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DropDown/dropdown/src/Menu.js">
+    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/Menu.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
+        <state relative-caret-position="240">
           <caret line="41" column="60" selection-start-line="41" selection-start-column="60" selection-end-line="41" selection-end-column="60" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -578,7 +512,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DropDown/dropdown/src/App.css">
+    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="6" selection-start-column="6" selection-end-column="6" />
@@ -587,7 +521,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CheckAll/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
+        <state relative-caret-position="228">
           <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
@@ -597,7 +531,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-dropdown/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
+        <state relative-caret-position="285">
           <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
         </state>
       </provider>

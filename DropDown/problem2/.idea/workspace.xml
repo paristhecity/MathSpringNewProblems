@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1273f4ca-ddbc-4684-8fd6-0d629feb0286" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/.idea/dropdown.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/.idea/dropdown.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/src/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/src/Menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/src/Option.js" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/src/Option.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dropdown/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../problem1/yarn.lock" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="problem2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="problem2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1273f4ca-ddbc-4684-8fd6-0d629feb0286" name="Default Changelist" comment="" />
+      <created>1558310306578</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558310306578</updated>
+      <workItem from="1558310307690" duration="124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="124000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info id="npm" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32876712" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
