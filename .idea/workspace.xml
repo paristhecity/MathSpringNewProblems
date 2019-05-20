@@ -3,29 +3,175 @@
   <component name="ChangeListManager">
     <list default="true" id="4f9a27f7-86e7-43cf-afd5-d1252fe89887" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/dropdown.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/dropdown.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/Menu.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/Option.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/Option.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/serviceWorker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/dropdown/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/.idea/newmathspringproblems.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/.idea/newmathspringproblems.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/src/Checkbox.js" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/src/Checkbox.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/src/serviceWorker.js" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/src/serviceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem1/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Original_CheckAll/action_page.php" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem2/action_page.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Original_CheckAll/check_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Check/problem2/check_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/.idea/model.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/src/serviceWorker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.bin/loose-envify" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.yarn-integrity" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/classnames/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/classnames/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/classnames/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/classnames/bind.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/classnames/dedupe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/classnames/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/classnames/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-tokens/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-tokens/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-tokens/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-tokens/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/js-tokens/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/loose-envify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/loose-envify/replace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-assign/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-assign/license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-assign/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/object-assign/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/checkPropTypes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/factory.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/factoryWithThrowingShims.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/factoryWithTypeCheckers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/lib/ReactPropTypesSecret.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/node_modules/.bin/loose-envify" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/prop-types.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/prop-types/prop-types.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/build-info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-server.node.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-test-utils.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fire.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fire.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fire.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fizz.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fizz.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fizz.node.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-fizz.node.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom-unstable-native-dependencies.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/cjs/react-dom.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/node_modules/.bin/loose-envify" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/profiling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/server.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/server.node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/test-utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-server.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-test-utils.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-fire.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-fire.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-fire.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-fizz.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-fizz.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom-unstable-native-dependencies.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/umd/react-dom.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/unstable-fizz.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/unstable-fizz.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/unstable-fizz.node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dom/unstable-native-dependencies.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dropdown/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dropdown/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dropdown/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dropdown/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dropdown/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-dropdown/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-is/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-is/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-is/build-info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-is/cjs/react-is.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-is/cjs/react-is.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-is/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-is/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-is/umd/react-is.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/react-is/umd/react-is.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/build-info.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler-tracing.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler-tracing.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler-tracing.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/cjs/scheduler.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/node_modules/.bin/loose-envify" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/tracing-profiling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/tracing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler-tracing.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler-tracing.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler-tracing.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/scheduler/umd/scheduler.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/take3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,7 +186,7 @@
     <favorites_list name="MathSpringProblems" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -97,12 +243,12 @@
             <path>
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="DropDown" type="462c0819:PsiDirectoryNode" />
+              <item name="Check" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Original_CheckAll" type="462c0819:PsiDirectoryNode" />
+              <item name="DropDown" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,6 +267,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Check/problem2" />
+      <recent name="$PROJECT_DIR$/Check" />
       <recent name="$PROJECT_DIR$/DropDown" />
       <recent name="$PROJECT_DIR$/DropDown/" />
       <recent name="$PROJECT_DIR$/CheckAllThatApply" />
@@ -255,6 +403,7 @@
       <workItem from="1557171338909" duration="745000" />
       <workItem from="1557172496229" duration="15364000" />
       <workItem from="1558049357632" duration="3194000" />
+      <workItem from="1558310433975" duration="1175000" />
     </task>
     <servers />
   </component>
@@ -273,7 +422,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42552000" />
+    <option name="totallyTimeSpent" value="43727000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -287,10 +436,10 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.70235544" visible="true" weight="0.2867355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.70021415" visible="true" weight="0.2867355" />
       <window_info id="Structure" order="1" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
       <window_info id="Favorites" order="2" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
-      <window_info id="npm" order="3" sideWeight="0.29764453" side_tool="true" visible="true" weight="0.2867355" />
+      <window_info id="npm" order="3" sideWeight="0.29978585" side_tool="true" visible="true" weight="0.2867355" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4932486" weight="0.26712328" />
@@ -385,14 +534,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/take3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Original_CheckAll/check_1.html">
+    <entry file="file://$PROJECT_DIR$/Check/problem2/check_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
@@ -406,7 +548,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CheckAll/src/App.test.js">
+    <entry file="file://$PROJECT_DIR$/Check/problem1/src/App.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -415,7 +557,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CheckAll/src/index.js">
+    <entry file="file://$PROJECT_DIR$/Check/problem1/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
@@ -431,27 +573,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Original_CheckAll/action_page.php">
+    <entry file="file://$PROJECT_DIR$/Check/problem2/action_page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CheckAll/package.json">
+    <entry file="file://$PROJECT_DIR$/Check/problem1/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/DropDown/problem1/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CheckAll/src/App.css">
+    <entry file="file://$PROJECT_DIR$/Check/problem1/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="30" selection-end-line="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CheckAll/src/Checkbox.js">
+    <entry file="file://$PROJECT_DIR$/Check/problem1/src/Checkbox.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
@@ -519,7 +661,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CheckAll/src/App.js">
+    <entry file="file://$PROJECT_DIR$/Check/problem1/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
@@ -533,6 +675,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="54" column="1" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/take3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DropDown/problem2/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-60">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

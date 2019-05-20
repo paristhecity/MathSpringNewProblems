@@ -1,9 +1,0 @@
-{
-  "name": "start",
-  "version": "1.0.0",
-  "dependencies": {
-    "prop-types": "^15.7.2",
-    "react-dom": "latest",
-    "react-dropdown": "^1.6.4"
-  }
-}
