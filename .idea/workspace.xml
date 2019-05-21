@@ -2,10 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f9a27f7-86e7-43cf-afd5-d1252fe89887" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MakeModel/problem1/src/Square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DropDown/problem1/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/.idea/problem2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/src/Square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem2/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckAll/problem1/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/CheckAll/problem1/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakeModel/problem1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MakeModel/problem1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MakeModel/problem1/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/MakeModel/problem1/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MakeModel/problem1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/MakeModel/problem1/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakeModel/problem1/src/Square.js" beforeDir="false" afterPath="$PROJECT_DIR$/MakeModel/problem1/src/Square.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakeModel/problem1/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/MakeModel/problem1/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,23 +47,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/App.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/Square.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="900">
-              <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="61" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -45,17 +59,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/App.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+            <state relative-caret-position="418">
+              <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/Square.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MakeModel/problem2/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="218">
+              <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,8 +115,13 @@
         <option value="$PROJECT_DIR$/DropDown/problem2/src/App.css" />
         <option value="$PROJECT_DIR$/DropDown/problem2/src/App.js" />
         <option value="$PROJECT_DIR$/DropDown/problem1/src/Square.js" />
-        <option value="$PROJECT_DIR$/MakeModel/problem1/src/App.css" />
         <option value="$PROJECT_DIR$/MakeModel/problem1/src/App.js" />
+        <option value="$PROJECT_DIR$/CheckAll/problem1/src/App.css" />
+        <option value="$PROJECT_DIR$/MakeModel/problem2/Square.js" />
+        <option value="$PROJECT_DIR$/MakeModel/problem2/src/App.js" />
+        <option value="$PROJECT_DIR$/MakeModel/problem2/src/App.css" />
+        <option value="$PROJECT_DIR$/MakeModel/problem2/src/Square.js" />
+        <option value="$PROJECT_DIR$/MakeModel/problem1/src/App.css" />
         <option value="$PROJECT_DIR$/MakeModel/problem1/src/Square.js" />
       </list>
     </option>
@@ -125,19 +147,55 @@
             <path>
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="DropDown" type="462c0819:PsiDirectoryNode" />
+              <item name="CheckAll" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="DropDown" type="462c0819:PsiDirectoryNode" />
+              <item name="CheckAll" type="462c0819:PsiDirectoryNode" />
               <item name="problem1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="DropDown" type="462c0819:PsiDirectoryNode" />
+              <item name="CheckAll" type="462c0819:PsiDirectoryNode" />
               <item name="problem1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="DropDown" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="MakeModel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="MakeModel" type="462c0819:PsiDirectoryNode" />
+              <item name="problem1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="MakeModel" type="462c0819:PsiDirectoryNode" />
+              <item name="problem1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="MakeModel" type="462c0819:PsiDirectoryNode" />
+              <item name="problem2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="MakeModel" type="462c0819:PsiDirectoryNode" />
+              <item name="problem2" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -157,11 +215,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MakeModel/problem2/src" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/MakeModel/problem1/src" />
       <recent name="$PROJECT_DIR$/Check/problem2" />
       <recent name="$PROJECT_DIR$/Check" />
-      <recent name="$PROJECT_DIR$/DropDown" />
-      <recent name="$PROJECT_DIR$/DropDown/" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -176,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Jest.All Tests">
+  <component name="RunManager">
     <configuration name="All Tests" type="JavaScriptTestRunnerJest" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -190,28 +248,8 @@
     <configuration name="checkAll.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/newproblems/checkAll.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/MakeModel/problem1/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="build" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="eject" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/DropDown/problem1/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="eject" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
     <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/DropDown/problem1/package.json" />
+      <package-json value="$PROJECT_DIR$/problem1/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -222,6 +260,26 @@
     </configuration>
     <configuration name="start (2)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/DropDown/problem2/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (3)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/MakeModel/problem2/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (4)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/CheckAll/problem1/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -254,19 +312,19 @@
       <item itemvalue="Jest.All Tests" />
       <item itemvalue="Node.js.checkAll.js" />
       <item itemvalue="npm.start" />
-      <item itemvalue="npm.start (1)" />
       <item itemvalue="npm.start (2)" />
-      <item itemvalue="npm.eject" />
       <item itemvalue="npm.start (5)" />
-      <item itemvalue="npm.build" />
+      <item itemvalue="npm.start (1)" />
+      <item itemvalue="npm.start (3)" />
+      <item itemvalue="npm.start (4)" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="npm.start (5)" />
-        <item itemvalue="npm.build" />
-        <item itemvalue="npm.start (2)" />
-        <item itemvalue="npm.eject" />
+        <item itemvalue="npm.start (3)" />
+        <item itemvalue="npm.start (4)" />
         <item itemvalue="npm.start (1)" />
+        <item itemvalue="npm.start (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -303,7 +361,7 @@
       <workItem from="1558310433975" duration="11649000" />
       <workItem from="1558458408557" duration="3368000" />
       <workItem from="1558462537123" duration="496000" />
-      <workItem from="1558467376781" duration="533000" />
+      <workItem from="1558467376781" duration="5069000" />
     </task>
     <servers />
   </component>
@@ -322,7 +380,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58598000" />
+    <option name="totallyTimeSpent" value="63134000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -337,10 +395,10 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69719625" visible="true" weight="0.2867355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.69719625" visible="true" weight="0.2867355" />
       <window_info id="Structure" order="1" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
       <window_info id="Favorites" order="2" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
-      <window_info active="true" id="npm" order="3" sideWeight="0.30280373" side_tool="true" visible="true" weight="0.2867355" />
+      <window_info id="npm" order="3" sideWeight="0.30280373" side_tool="true" visible="true" weight="0.2867355" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4932486" visible="true" weight="0.26712328" />
@@ -474,23 +532,6 @@
     <entry file="file://$PROJECT_DIR$/DropDown/problem1/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CheckAll/problem1/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="30" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CheckAll/problem1/src/Checkbox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-dropdown/dist/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-190" />
@@ -512,16 +553,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CheckAll/problem1/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -569,16 +600,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+    <entry file="file://$PROJECT_DIR$/DropDown/problem2/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem1/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/problem1/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem1/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="900">
+        <state relative-caret-position="653">
           <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="61" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
@@ -586,17 +627,99 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/App.css">
+    <entry file="file://$PROJECT_DIR$/problem1/src/Square.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem1/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="24" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/problem1/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CheckAll/problem1/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="28" lean-forward="true" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheckAll/problem1/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="36" selection-start-line="53" selection-start-column="36" selection-end-line="53" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheckAll/problem1/src/Checkbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="11" column="12" lean-forward="true" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MakeModel/problem2/src/Square.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" lean-forward="true" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MakeModel/problem2/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="16" lean-forward="true" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="33" column="1" lean-forward="true" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MakeModel/problem2/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="26" column="25" lean-forward="true" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/Square.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        <state relative-caret-position="165">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
         </state>
       </provider>
     </entry>

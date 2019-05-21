@@ -1,23 +1,22 @@
 import React, {Component} from 'react';
 
 
-
 class Square extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            color : 'white',
-        }
+            color: 'red',
+        };
     }
 
-    fillSquare() {
+    fillSquare = () => {
         this.setState({color: 'blue'});
     }
 
     render() {
         return (
-            <Square className="square" onClick={this.fillSquare} style={{background: 'red'}}>
-            </Square>
+            <div className="square" onClick={this.fillSquare} style={{background: this.state.color}}>
+            </div>
         );
     }
 }
