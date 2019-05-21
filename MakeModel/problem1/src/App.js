@@ -1,26 +1,37 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, {Component} from 'react';
 import './App.css';
+import Square from './Square.js';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+class App extends Component {
+
+    handleSubmit = formSubmitEvent => {
+        formSubmitEvent.preventDefault();
+        alert("submit");
+    }
+
+    render() {
+      return (
+        <div className="App">
+            <header className="App-header">
+                <div className="Question">
+                    <label>
+                        Make a model in which the shaded part represents <sup>1</sup>&frasl;<sub>6</sub> of
+                        the area of this figure.
+                        <br /> Divide the figure into the correct number of equal parts
+                        by using the More and Fewer buttons. Then shade by selecting the part or parts.
+                    </label>
+                </div>
+                <form className="Problems" onSubmit={this.handleSubmit}>
+                    <div className="Problem">
+                        <Square />
+                    </div>
+                    <br />
+                    <input type="submit" value="Submit"/>
+                </form>
+            </header>
+        </div>
+      );
+    }
 }
 
 export default App;

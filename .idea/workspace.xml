@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f9a27f7-86e7-43cf-afd5-d1252fe89887" name="Default Changelist" comment="" />
+    <list default="true" id="4f9a27f7-86e7-43cf-afd5-d1252fe89887" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MakeModel/problem1/src/Square.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakeModel/problem1/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/MakeModel/problem1/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakeModel/problem1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/MakeModel/problem1/src/App.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -15,15 +20,42 @@
     <favorites_list name="MathSpringProblems" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/DropDown/problem2/src/App.js">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="875">
-              <caret line="62" column="23" lean-forward="true" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+            <state relative-caret-position="90">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="61" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/App.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/Square.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -65,11 +97,15 @@
         <option value="$PROJECT_DIR$/DropDown/problem1/src/Menu.js" />
         <option value="$PROJECT_DIR$/DropDown/problem2/src/App.css" />
         <option value="$PROJECT_DIR$/DropDown/problem2/src/App.js" />
+        <option value="$PROJECT_DIR$/DropDown/problem1/src/Square.js" />
+        <option value="$PROJECT_DIR$/MakeModel/problem1/src/App.css" />
+        <option value="$PROJECT_DIR$/MakeModel/problem1/src/App.js" />
+        <option value="$PROJECT_DIR$/MakeModel/problem1/src/Square.js" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="634" />
     <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -89,12 +125,20 @@
             <path>
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="CheckAll" type="462c0819:PsiDirectoryNode" />
+              <item name="DropDown" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
               <item name="DropDown" type="462c0819:PsiDirectoryNode" />
+              <item name="problem1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="DropDown" type="462c0819:PsiDirectoryNode" />
+              <item name="problem1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -113,11 +157,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/MakeModel/problem1/src" />
       <recent name="$PROJECT_DIR$/Check/problem2" />
       <recent name="$PROJECT_DIR$/Check" />
       <recent name="$PROJECT_DIR$/DropDown" />
       <recent name="$PROJECT_DIR$/DropDown/" />
-      <recent name="$PROJECT_DIR$/CheckAllThatApply" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -132,7 +176,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Jest.All Tests">
     <configuration name="All Tests" type="JavaScriptTestRunnerJest" nameIsGenerated="true">
       <node-interpreter value="project" />
       <node-options value="" />
@@ -144,6 +188,16 @@
       <method v="2" />
     </configuration>
     <configuration name="checkAll.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/newproblems/checkAll.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/MakeModel/problem1/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
       <method v="2" />
     </configuration>
     <configuration name="eject" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -176,18 +230,8 @@
       <envs />
       <method v="2" />
     </configuration>
-    <configuration name="start (3)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/CheckAll/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
-      <method v="2" />
-    </configuration>
-    <configuration name="start (4)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/DropDown/dropdown/package.json" />
+    <configuration name="start (5)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/MakeModel/problem1/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -210,19 +254,19 @@
       <item itemvalue="Jest.All Tests" />
       <item itemvalue="Node.js.checkAll.js" />
       <item itemvalue="npm.start" />
-      <item itemvalue="npm.start (3)" />
-      <item itemvalue="npm.start (4)" />
       <item itemvalue="npm.start (1)" />
       <item itemvalue="npm.start (2)" />
       <item itemvalue="npm.eject" />
+      <item itemvalue="npm.start (5)" />
+      <item itemvalue="npm.build" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start (5)" />
+        <item itemvalue="npm.build" />
         <item itemvalue="npm.start (2)" />
         <item itemvalue="npm.eject" />
         <item itemvalue="npm.start (1)" />
-        <item itemvalue="npm.start (4)" />
-        <item itemvalue="npm.start (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +300,10 @@
       <workItem from="1557171338909" duration="745000" />
       <workItem from="1557172496229" duration="15364000" />
       <workItem from="1558049357632" duration="3194000" />
-      <workItem from="1558310433975" duration="10908000" />
+      <workItem from="1558310433975" duration="11649000" />
+      <workItem from="1558458408557" duration="3368000" />
+      <workItem from="1558462537123" duration="496000" />
+      <workItem from="1558467376781" duration="533000" />
     </task>
     <servers />
   </component>
@@ -275,7 +322,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53460000" />
+    <option name="totallyTimeSpent" value="58598000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -287,22 +334,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.70021415" visible="true" weight="0.2867355" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.69719625" visible="true" weight="0.2867355" />
       <window_info id="Structure" order="1" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
       <window_info id="Favorites" order="2" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
-      <window_info id="npm" order="3" sideWeight="0.29978585" side_tool="true" visible="true" weight="0.2867355" />
+      <window_info active="true" id="npm" order="3" sideWeight="0.30280373" side_tool="true" visible="true" weight="0.2867355" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4932486" weight="0.26712328" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4932486" visible="true" weight="0.26712328" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960285" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32876712" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" weight="0.32876712" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49959645" weight="0.32876712" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4940429" visible="true" weight="0.360274" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4940429" weight="0.360274" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5067514" side_tool="true" weight="0.26712328" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -379,14 +427,7 @@
     <entry file="file://$PROJECT_DIR$/action.html" />
     <entry file="file://$PROJECT_DIR$/CheckAllThatApply/check_2.js" />
     <entry file="file://$PROJECT_DIR$/newproblems/checkAll.js" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/CheckAll/problem2/check_1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -419,13 +460,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" />
     <entry file="file://$PROJECT_DIR$/CheckAll/problem2/action_page.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -497,22 +532,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/model/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/take3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/model/src/App.js" />
+    <entry file="file://$PROJECT_DIR$/take3.js" />
     <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.test.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -522,30 +543,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/Menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/Option.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-344">
-          <caret column="39" selection-start-column="39" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/Menu.js" />
+    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/Option.js" />
     <entry file="file://$PROJECT_DIR$/DropDown/problem2/src/App.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="383">
@@ -553,20 +552,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DropDown/problem2/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="875">
-          <caret line="62" column="23" lean-forward="true" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
+          <caret line="62" column="23" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="23" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="63" column="24" selection-start-line="63" selection-start-column="24" selection-end-line="63" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/Square.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
