@@ -1,21 +1,26 @@
 .App {
   text-align: left;
-  height: 90%;
-  width: 90%;
+  height: 600px;
+  width: 600px;
   padding: 5%;
 }
 
-.square {
-  display: flex;
-  height: 250px;
-  width: 250px;
+.squaregroup {
+  display: inline-block;
   flex-direction: column;
   justify-content: center;
-  border: 2px solid black;
-  padding: 10px;
-  margin: 10px;
+  font-size: 16px;
+  color: black;
 }
 
+.square {
+  display: inline-block;
+  height: 300px;
+  width: 300px;
+  flex-direction: column;
+  justify-content: center;
+  border: 1px solid black;
+}
 
 .App-header {
   display: flex;
@@ -26,14 +31,16 @@
   border: 2px solid lightgray;
   box-shadow: 5px 5px lightgray;
   padding: 1%;
-
 }
 
 .Question {
   box-shadow: gray;
 }
 
-.Answers {
-
+.Problem {
+  text-align: center;
 }
+
+
+
 
