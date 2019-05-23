@@ -7,6 +7,7 @@ class App extends Component {
   constructor(props) {
     super(props);
     this.fract = 0;
+    this.child = React.createRef();
   }
 
   announceFraction = (childData) => {
@@ -15,6 +16,7 @@ class App extends Component {
 
   handleSubmit = formSubmitEvent => {
     formSubmitEvent.preventDefault();
+    alert("SUBMITTING:");
     alert(this.fract);
     alert("submit");
     window.location.reload();

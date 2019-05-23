@@ -12,10 +12,9 @@ class SquareGroup extends Component {
             amount: 1,
             size: 300.0,
             reset: 0,
-            group: [],
         };
+        this.group = [];
 
-        this.child = React.createRef();
         this.numColored = 0;
         this.makeSquares = this.makeSquares.bind(this);
         this.reset = this.reset.bind(this);
@@ -23,10 +22,8 @@ class SquareGroup extends Component {
         this.mergeSquare = this.mergeSquare.bind(this);
     }
 
-    calculateFraction = (color) => {
-        if(color !== 'white') {
-            this.numColored++;
-        }
+    calculateFraction = (number) => {
+        this.numColored += number;
         const fraction = new Fraction(this.numColored, this.state.amount);
         this.props.callBack(fraction);
     };
@@ -41,6 +38,7 @@ class SquareGroup extends Component {
         for(let i = 0; i < this.state.amount; i++) {
             g.push(<Square ref={this.child} callBack={this.calculateFraction} width={this.state.size/this.state.amount}/>);
         }
+        this.group = g;
         return g;
     };
 

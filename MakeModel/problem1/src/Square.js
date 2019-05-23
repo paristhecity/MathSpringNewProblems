@@ -8,27 +8,33 @@ class Square extends Component {
             width: 300,
         };
 
-        this.emptySquare = this.emptySquare.bind(this);
+        this.changed = 0;
         this.fillSquare = this.fillSquare.bind(this);
     }
 
     componentDidUpdate() {
-        this.shareColors();
+        this.shareColor();
     }
 
-    shareColors = () => {
-        this.props.callBack(this.state.background);
+    shareColor = () => {
+        let num;
+        if(this.changed === 0)
+            num = this.state.background !== 'white' ? 1 : 0;
+        else {
+            num = -1;
+            this.changed = 0;
+        }
+        this.props.callBack(num);
     };
 
     fillSquare = () => {
         if(this.state.background === 'white')
             this.setState({background: 'blue'});
-        else
+        else {
             this.setState({background: 'white'});
-    };
+            this.changed = 1;
+        }
 
-    emptySquare = () => {
-        this.setState({background: 'white'});
     };
 
     render() {
