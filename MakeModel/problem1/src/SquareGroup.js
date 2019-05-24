@@ -43,7 +43,7 @@ class SquareGroup extends Component {
     };
 
     reset = () => {
-        this.setState({reset: 1});
+        window.location.reload();
     };
 
     splitSquare = () => {
