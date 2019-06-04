@@ -55,7 +55,7 @@ class App extends Component {
                         </div>
                         <br />
                         <div className="Problem">
-                            <label> 6.45 </label>
+                            <label> 6.78 </label>
                             <Dropdown className="Three" options={options} onChange={this.handleChange} placeholder="Select an option" value={this.state.value}/>
                             <label> 6.7 </label>
                         </div>

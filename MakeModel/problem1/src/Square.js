@@ -34,7 +34,6 @@ class Square extends Component {
             this.setState({background: 'white'});
             this.changed = 1;
         }
-
     };
 
     render() {

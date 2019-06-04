@@ -30,7 +30,7 @@ class SquareGroup extends Component {
 
     makeSquares = () => {
         let g = [];
-        if(this.state.reset === 1)
+        if(this.state.reset === 1) //Not currently used
         {
             this.setState({amount: 1});
             this.setState({reset: 0});
