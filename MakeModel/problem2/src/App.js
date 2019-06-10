@@ -7,6 +7,7 @@ class App extends Component {
 
   handleSubmit = formSubmitEvent => {
     formSubmitEvent.preventDefault();
+    //Do Something to get the response
     window.location.reload();
   };
 
@@ -29,11 +30,8 @@ class App extends Component {
           <form className="Problems" onSubmit={this.handleSubmit}>
             <div className="Problem">
               <Circle  />
-
-
             </div>
             <br/>
-
             <input type="submit" value="Submit"/>
           </form>
         </header>

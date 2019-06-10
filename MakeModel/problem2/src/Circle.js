@@ -21,7 +21,7 @@ class Circle extends Component {
         for(let i = 0; i < 360; i+=angle)  {
             this.state.transform.push(i);
         }
-    }
+    };
 
     makeArcs = () => {
         this.transformList();
@@ -32,7 +32,6 @@ class Circle extends Component {
             this.setState({reset: 0});
         }
         let skew = (360/this.state.amount) - 90;
-        //let skew = 0;
         for(let i = 0; i < this.state.amount; i++) {
             g.push(<Arc rotate={this.state.transform[i]} skew={skew}/>);
         }
@@ -63,7 +62,7 @@ class Circle extends Component {
                 <div>
                     <button className="Reset" type="button" onClick={this.reset}>Reset</button>
                     &nbsp;
-                    <button className="More" enabled="true" type="button" onClick={this.splitArc} disabled>More</button>
+                    <button className="More" enabled="true" type="button" onClick={this.splitArc} >More</button>
                     &nbsp;
                     <button className="Less" enabled="true" type="button" onClick={this.mergeArc} disabled>Less</button>
                 </div>
