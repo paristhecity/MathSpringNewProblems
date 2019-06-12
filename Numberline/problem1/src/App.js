@@ -4,6 +4,15 @@ import NumberLine from "./Numberline";
 
 class App extends React.Component{
 
+  //Constants that can change
+  WINDOW_HEIGHT = 200;
+  WINDOW_WIDTH = 575;
+  LINE_LENGTH = 550;
+  LINE_START = 5;
+  TICK_MAX_NUM = 7;
+  LINE_PLACE = 50;
+
+
   handleSubmit = formSubmitEvent => {
     formSubmitEvent.preventDefault();
     //Do Something to get the response
@@ -31,7 +40,11 @@ class App extends React.Component{
             </div>
             <form className="Problems" onSubmit={this.handleSubmit}>
               <div className="Problem">
-                <NumberLine color="blue"/>
+                <NumberLine color="black"
+                            windowHeight={this.WINDOW_HEIGHT} windowWidth={this.WINDOW_WIDTH}
+                            lineLength={this.LINE_LENGTH} lineStart={this.LINE_START} lineY={this.LINE_PLACE}
+                            tickMaxNum={this.TICK_MAX_NUM}
+                />
               </div>
               <br />
               <input type="submit" value="Submit"/>
@@ -41,5 +54,6 @@ class App extends React.Component{
     );
   }
 }
+
 
 export default App;

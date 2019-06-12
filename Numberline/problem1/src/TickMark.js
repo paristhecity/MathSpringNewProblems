@@ -5,54 +5,63 @@ class TickMark extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            circleFill : 'black',
-            showCircle : false,
-            hover : true,
+            fill : 'black',
+            showCircle : true,
+            hover : false,
         };
-    }
 
-    initializeCircle = () => {
-        //alert(this.state.showCircle);
-        return (this.state.showCircle ?
-            <circle cx={this.props.x} cy="50" r="5" style={{fill: 'blue'}} /> :
-            <circle cx={this.props.x} cy="50" r="5" style={{fill: 'none'}} />);
-    };
+        this.makeCircle = this.makeCircle.bind(this);
+    }
 
     hoverOver = () => {
         this.setState({showCircle : true});
+        this.setState({hover: true});
         //this.setState({hover : true});
+        this.props.callbackHover(this.props.x);
+
     };
 
     hoverLeave = () => {
-        if(this.state.hover === true)
-            this.setState({showCircle : false});
-        //this.setState({hover : false});
-    };
-
-    changeCircle = () => {
-        this.setState({showCircle : false});
+        if(this.state.hover === true) {
+            this.setState({showCircle: false});
+            this.props.callbackLeave();
+        }
+        this.setState({hover: false});
     };
 
     makeCircle = () => {
-        //Callback goes here
-        this.props.callback();
-        if(this.state.hover){
+        this.props.callbackHover(this.props.x);
+        if(this.state.hover && this.state.showCircle){
             this.setState({showCircle : true});
+            this.setState({hover: false});
+        }
+        else if(!this.state.hover && this.state.showCircle){
+            this.setState({showCircle : false});
             this.setState({hover: false});
         }
         else {
             this.setState({showCircle : false});
-            this.setState({hover: true})
+            this.setState({hover: false});
         }
     };
 
     render() {
 
-        return (
-            <svg height={200} width={500}>
+        // x-position of text changes based on number of digits and if negative
+        let textPosX = (this.props.number > 9 || this.props.number < -9) ? this.props.x - 15 : this.props.x - 10;
+        let textNegX = (this.props.number > 9 || this.props.number < -9) ? this.props.x - 10 : this.props.x - 5;
+        let textY = this.props.lineY - 15;
 
-                <line x1={this.props.x} y1="40" x2={this.props.x} y2="60" style={{stroke: 'black'}} onMouseOver={this.hoverOver} onMouseLeave={this.hoverLeave} onClick={this.makeCircle}/>
-                {this.initializeCircle()}
+        //tickMark information
+        let tickTop = this.props.lineY - 10;
+        let tickBottom = this.props.lineY + 10;
+
+        return (
+            <svg height={this.props.height} width={this.props.width}>
+                {(this.props.number < 0) ?
+                    <text x={textPosX} y={textY}> {this.props.number} </text> :
+                    <text x={textNegX} y={textY}> {this.props.number} </text>}
+                <line x1={this.props.x} y1={tickTop} x2={this.props.x} y2={tickBottom} style={{stroke: this.state.fill}} onMouseEnter={this.hoverOver} onMouseLeave={this.hoverLeave} onClick={this.makeCircle}/>
             </svg>
         );
     }
