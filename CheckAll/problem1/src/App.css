@@ -5,8 +5,6 @@
   padding: 5%;
 }
 
-
-
 .App-header {
   display: flex;
   flex-direction: column;
@@ -23,7 +21,4 @@
   box-shadow: gray;
 }
 
-.Answers {
-
-}
 

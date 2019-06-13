@@ -13,41 +13,39 @@ const items = [
 ];
 
 class App extends Component {
-  componentWillMount = () => {
-    this.selectedCheckboxes = new Set();
-  }
+    componentWillMount = () => {
+        this.selectedCheckboxes = new Set();
+    };
 
-  toggleCheckbox = label => {
-    if (this.selectedCheckboxes.has(label)) {
-      this.selectedCheckboxes.delete(label);
-    } else {
-      this.selectedCheckboxes.add(label);
-    }
-  }
+    toggleCheckbox = label => {
+        if (this.selectedCheckboxes.has(label)) {
+            this.selectedCheckboxes.delete(label);
+        } else {
+            this.selectedCheckboxes.add(label);
+        }
+    };
 
-  handleSubmit = formSubmitEvent => {
-    formSubmitEvent.preventDefault();
-    const intro = 'One chosen answer is: ';
-    for (const checkbox of this.selectedCheckboxes) {
-      alert(intro + checkbox);
-    }
+    handleSubmit = formSubmitEvent => {
+        formSubmitEvent.preventDefault();
+        const intro = 'One chosen answer is: ';
+        for (const checkbox of this.selectedCheckboxes) {
+            alert(intro + checkbox);
+        }
+    };
 
-  }
-
-  createCheckbox = label => (
+    createCheckbox = label => (
       <Checkbox
           label={label}
           handleCheckboxChange={this.toggleCheckbox}
           key={label}
       />
-  )
+    );
 
-  createCheckboxes = () => (
+    createCheckboxes = () => (
       items.map(this.createCheckbox)
-  )
+    );
 
-
-  render() {
+    render() {
     return (
       <div className="App">
         <header className="App-header">
@@ -62,13 +60,9 @@ class App extends Component {
           </div>
           <br />
           <form className="Answers" onSubmit={this.handleSubmit}>
-
             {this.createCheckboxes()}
-
             <input type="submit" value="Submit" />
           </form>
-
-
         </header>
       </div>
     );
