@@ -2,25 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f9a27f7-86e7-43cf-afd5-d1252fe89887" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CheckAll/problem1/public/mathspring.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CheckAll/problem1/src/mathspring.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DropDown/problem1/public/mathspring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/Dot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/Numberline.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem1/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/CheckAll/problem1/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem1/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/CheckAll/problem1/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CheckAll/problem1/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem1/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordPlane/problem1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/problem1/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/problem1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/problem1/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/public/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/problem2/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem2/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MakeModel/problem1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MakeModel/problem1/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MakeModel/problem2/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MakeModel/problem2/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MakeModel/problem2/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numberline/problem1/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numberline/problem1/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Numberline/problem1/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoordPlane/problem1/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CoordPlane/problem1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numberline/problem1/src/logo.svg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,11 +23,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Numberline/problem1/public/index.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CoordPlane/problem1/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+            <state relative-caret-position="30">
+              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CoordPlane/problem1/src/Numberline.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -77,8 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/action.html" />
-        <option value="$PROJECT_DIR$/action_page.php" />
         <option value="$PROJECT_DIR$/checkAllThatApply.html" />
         <option value="$PROJECT_DIR$/CheckAllThatApply/checkAllThatApply.html" />
         <option value="$PROJECT_DIR$/CheckAllThatApply/check_2.js" />
@@ -127,6 +121,9 @@
         <option value="$PROJECT_DIR$/MakeModel/problem1/public/index.html" />
         <option value="$PROJECT_DIR$/MakeModel/problem2/public/index.html" />
         <option value="$PROJECT_DIR$/Numberline/problem1/public/index.html" />
+        <option value="$PROJECT_DIR$/CoordPlane/problem1/src/App.css" />
+        <option value="$PROJECT_DIR$/CoordPlane/problem1/src/App.js" />
+        <option value="$PROJECT_DIR$/CoordPlane/problem1/src/Numberline.js" />
       </list>
     </option>
   </component>
@@ -151,25 +148,20 @@
             <path>
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="MakeModel" type="462c0819:PsiDirectoryNode" />
+              <item name="CoordPlane" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Numberline" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Numberline" type="462c0819:PsiDirectoryNode" />
+              <item name="CoordPlane" type="462c0819:PsiDirectoryNode" />
               <item name="problem1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
-              <item name="Numberline" type="462c0819:PsiDirectoryNode" />
+              <item name="CoordPlane" type="462c0819:PsiDirectoryNode" />
               <item name="problem1" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,11 +180,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CoordPlane/problem1/src" />
       <recent name="$PROJECT_DIR$/DropDown/problem1/build" />
       <recent name="$PROJECT_DIR$/CheckAll/problem1/public" />
       <recent name="$PROJECT_DIR$/CheckAll/problem1/src" />
       <recent name="$PROJECT_DIR$/DropDown/problem1/src" />
-      <recent name="$PROJECT_DIR$/MakeModel/problem1/node_modules/babel-preset-react-app/node_modules/@babel" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DropDown/problem1/public" />
@@ -226,16 +218,6 @@
       <method v="2" />
     </configuration>
     <configuration name="checkAll.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/newproblems/checkAll.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
-    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/DropDown/problem1/package.json" />
-      <command value="run" />
-      <scripts>
-        <script value="start" />
-      </scripts>
-      <node-interpreter value="project" />
-      <envs />
       <method v="2" />
     </configuration>
     <configuration name="start (2)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -278,6 +260,16 @@
       <envs />
       <method v="2" />
     </configuration>
+    <configuration name="start (6)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/CoordPlane/problem1/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -292,19 +284,19 @@
       <item itemvalue="Jest.All Tests" />
       <item itemvalue="Node.js.checkAll.js" />
       <item itemvalue="npm.start" />
-      <item itemvalue="npm.start (1)" />
       <item itemvalue="npm.start (2)" />
       <item itemvalue="npm.start (3)" />
       <item itemvalue="npm.start (5)" />
       <item itemvalue="npm.start (4)" />
+      <item itemvalue="npm.start (6)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start (6)" />
         <item itemvalue="npm.start (4)" />
         <item itemvalue="npm.start (5)" />
         <item itemvalue="npm.start (3)" />
         <item itemvalue="npm.start (2)" />
-        <item itemvalue="npm.start (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +335,7 @@
       <workItem from="1558462537123" duration="496000" />
       <workItem from="1558467376781" duration="38508000" />
       <workItem from="1559330679914" duration="44025000" />
-      <workItem from="1560449502794" duration="2178000" />
+      <workItem from="1560449502794" duration="3753000" />
     </task>
     <servers />
   </component>
@@ -362,7 +354,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="159526000" />
+    <option name="totallyTimeSpent" value="161101000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -377,13 +369,13 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6917808" visible="true" weight="0.2867355" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.69158876" visible="true" weight="0.2867355" />
       <window_info id="Structure" order="1" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
       <window_info id="Favorites" order="2" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
-      <window_info id="npm" order="3" sideWeight="0.30821916" side_tool="true" visible="true" weight="0.2867355" />
+      <window_info id="npm" order="3" sideWeight="0.3084112" side_tool="true" visible="true" weight="0.2867355" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4932486" weight="0.26712328" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4932486" visible="true" weight="0.26712328" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960285" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -464,11 +456,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/problem1/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/problem1/package.json" />
-    <entry file="file://$PROJECT_DIR$/problem1/src/Square.js" />
-    <entry file="file://$PROJECT_DIR$/problem1/src/App.js" />
-    <entry file="file://$PROJECT_DIR$/problem1/src/App.css" />
     <entry file="file://$PROJECT_DIR$/CheckAll/problem1/src/Checkbox.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -513,16 +500,6 @@
         <state>
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -606,16 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Numberline/problem1/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -780,6 +747,59 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordPlane/problem1/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Numberline/problem1/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="19" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordPlane/problem1/src/Dot.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-352" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordPlane/problem1/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordPlane/problem1/src/Numberline.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
