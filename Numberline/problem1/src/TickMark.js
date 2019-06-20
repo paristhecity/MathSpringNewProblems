@@ -16,7 +16,6 @@ class TickMark extends React.Component {
     hoverOver = () => {
         this.setState({showCircle : true});
         this.setState({hover: true});
-        //this.setState({hover : true});
         this.props.callbackHover(this.props.x);
 
     };

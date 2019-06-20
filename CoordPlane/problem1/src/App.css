@@ -1,17 +1,8 @@
 .App {
   text-align: left;
-  height: 90%;
-  width: 90%;
+  height: 600px;
+  width: 600px;
   padding: 5%;
-}
-
-.Dropdown-control {
-  width: fit-content;
-}
-
-.Dropdown-menu {
-
-  width: 100%;
 }
 
 .App-header {
@@ -23,20 +14,45 @@
   border: 2px solid lightgray;
   box-shadow: 5px 5px lightgray;
   padding: 1%;
+}
 
+line {
+  stroke:blue;
+  stroke-width:2;
+}
+
+.coordline {
+  stroke-width: 1;
+  pointer-events: none;
+}
+
+svg {
+  border: 2px solid lightgray;
+}
+
+.dot {
+  pointer-events: none;
+}
+
+polyline {
+  stroke: black;
+  stroke-width:2;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  fill: none;
 }
 
 .Question {
-
   box-shadow: gray;
-
 }
 
 .Problem {
-
-  display: inline-flex;
-  justify-content: space-between;
-  padding: 20px ;
+  text-align: center;
 }
+
+input {
+  text-align: left;
+}
+
 
 

@@ -1,15 +1,21 @@
 import React from 'react';
 import './App.css';
-import NumberLine from './Numberline.js';
+import CoordPlane from "./CoordPlane";
 
 class App extends React.Component {
     //Constants that can change
-    WINDOW_HEIGHT = 200;
+    WINDOW_HEIGHT = 500;
     WINDOW_WIDTH = 575;
-    LINE_LENGTH = 550;
-    LINE_START = 5;
-    TICK_MAX_NUM = 7;
-    LINE_PLACE = 50;
+    X_MAX = 10;
+    Y_MAX = 10;
+    X_START = 5;
+    Y_START = 5;
+    X_LENGTH = this.X_START+550;
+    Y_LENGTH = this.Y_START+475;
+    X_PLACE = this.X_LENGTH/2;
+    Y_PLACE = this.Y_LENGTH/2;
+    Y_MEASURE = (this.Y_PLACE - this.Y_START)/(this.Y_MAX);
+    X_MEASURE = (this.X_PLACE - this.X_START)/(this.X_MAX);
 
     handleSubmit = formSubmitEvent => {
         formSubmitEvent.preventDefault();
@@ -22,16 +28,20 @@ class App extends React.Component {
             <div className="App">
                 <header className="App-header">
                     <div className="Question">
+                        Place a point on (9, 5).
                     </div>
                     <br/>
                     <form className="Problems" onSubmit={this.handleSubmit}>
                         <div className="Problem">
-                            <NumberLine color="black"
-                                        windowHeight={this.WINDOW_HEIGHT} windowWidth={this.WINDOW_WIDTH}
-                                        lineLength={this.LINE_LENGTH} lineStart={this.LINE_START}
-                                        lineY={this.LINE_PLACE}
-                                        tickMaxNum={this.TICK_MAX_NUM}
+                            <CoordPlane color="black"
+                                   windowHeight={this.WINDOW_HEIGHT} windowWidth={this.WINDOW_WIDTH}
+                                        xMax={this.X_MAX} yMax={this.Y_MAX}
+                                        xStart={this.X_START} yStart={this.Y_START}
+                                        xLength={this.X_LENGTH} yLength={this.Y_LENGTH}
+                                        xPlace={this.X_PLACE} yPlace={this.Y_PLACE}
+                                        xMeasure={this.X_MEASURE} yMeasure={this.Y_MEASURE}
                             />
+
                         </div>
                         <input type="submit" value="Submit"/>
                     </form>
