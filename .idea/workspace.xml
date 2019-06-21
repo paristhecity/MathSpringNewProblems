@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f9a27f7-86e7-43cf-afd5-d1252fe89887" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/CoordPlane.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/HoverSquare.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/YLine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/.idea/problem2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/src/CoordPlane.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/src/Dot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/src/HoverSquare.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/src/XLine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CoordPlane/problem2/src/YLine.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordPlane/problem1/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordPlane/problem1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordPlane/problem1/src/Dot.js" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/Dot.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordPlane/problem1/src/Numberline.js" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/XLine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numberline/problem1/src/TickMark.js" beforeDir="false" afterPath="$PROJECT_DIR$/Numberline/problem1/src/TickMark.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,39 +33,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoordPlane/problem1/src/CoordPlane.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-291">
-              <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-                <element signature="e#390#1039#0" />
-                <element signature="e#1193#1901#0" />
-                <element signature="e#1832#2419#0" />
-                <element signature="e#3471#3487#0" />
-                <element signature="e#3461#3477#0" />
-                <element signature="e#6287#6441#0" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/CoordPlane/problem2/src/XLine.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CoordPlane/problem1/src/YLine.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CoordPlane/problem1/src/XLine.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/CoordPlane/problem2/src/YLine.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -227,6 +207,19 @@
             <path>
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="CoordPlane" type="462c0819:PsiDirectoryNode" />
+              <item name="problem2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="CoordPlane" type="462c0819:PsiDirectoryNode" />
+              <item name="problem2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
               <item name="Numberline" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -259,11 +252,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CoordPlane/problem2/src" />
       <recent name="$PROJECT_DIR$/CoordPlane/problem1/src" />
       <recent name="$PROJECT_DIR$/DropDown/problem1/build" />
       <recent name="$PROJECT_DIR$/CheckAll/problem1/public" />
       <recent name="$PROJECT_DIR$/CheckAll/problem1/src" />
-      <recent name="$PROJECT_DIR$/DropDown/problem1/src" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/DropDown/problem1/public" />
@@ -299,8 +292,8 @@
     <configuration name="checkAll.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/newproblems/checkAll.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="start (2)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
-      <package-json value="$PROJECT_DIR$/DropDown/problem2/package.json" />
+    <configuration name="start (1)" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/CoordPlane/problem2/package.json" />
       <command value="run" />
       <scripts>
         <script value="start" />
@@ -363,19 +356,19 @@
       <item itemvalue="Jest.All Tests" />
       <item itemvalue="Node.js.checkAll.js" />
       <item itemvalue="npm.start" />
-      <item itemvalue="npm.start (2)" />
       <item itemvalue="npm.start (3)" />
       <item itemvalue="npm.start (5)" />
       <item itemvalue="npm.start (4)" />
       <item itemvalue="npm.start (6)" />
+      <item itemvalue="npm.start (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start (1)" />
         <item itemvalue="npm.start (6)" />
         <item itemvalue="npm.start (4)" />
         <item itemvalue="npm.start (5)" />
         <item itemvalue="npm.start (3)" />
-        <item itemvalue="npm.start (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -414,7 +407,7 @@
       <workItem from="1558462537123" duration="496000" />
       <workItem from="1558467376781" duration="38508000" />
       <workItem from="1559330679914" duration="44025000" />
-      <workItem from="1560449502794" duration="50230000" />
+      <workItem from="1560449502794" duration="50694000" />
     </task>
     <servers />
   </component>
@@ -433,7 +426,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="207578000" />
+    <option name="totallyTimeSpent" value="208042000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -446,15 +439,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.69174314" visible="true" weight="0.2867355" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6923077" visible="true" weight="0.2867355" />
       <window_info id="Structure" order="1" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
       <window_info id="Favorites" order="2" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
-      <window_info id="npm" order="3" sideWeight="0.3082569" side_tool="true" visible="true" weight="0.2867355" />
+      <window_info id="npm" order="3" sideWeight="0.30769232" side_tool="true" visible="true" weight="0.2867355" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4932486" visible="true" weight="0.25342464" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4932486" visible="true" weight="0.25205478" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960285" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -535,52 +527,6 @@
     </option>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MakeModel/problem1/node_modules/babel-preset-react-app/node_modules/@babel/runtime/helpers/esm/get.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DropDown/problem2/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="50" column="24" lean-forward="true" selection-start-line="50" selection-start-column="24" selection-end-line="50" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MakeModel/problem1/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/App.test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MakeModel/problem2/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MakeModel/problem1/src/App.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="21" column="23" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MakeModel/problem2/src/Arc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="24" column="47" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/MakeModel/problem2/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
@@ -871,17 +817,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CoordPlane/problem1/src/XLine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CoordPlane/problem1/src/CoordPlane.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-291">
-          <caret line="78" lean-forward="true" selection-start-line="78" selection-end-line="78" />
+          <caret line="78" selection-start-line="78" selection-end-line="78" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
             <element signature="e#390#1039#0" />
@@ -900,6 +839,36 @@
           <caret line="15" column="68" selection-start-line="15" selection-start-column="68" selection-end-line="15" selection-end-column="68" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordPlane/problem2/src/CoordPlane.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordPlane/problem2/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordPlane/problem2/src/App.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordPlane/problem2/src/Dot.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordPlane/problem2/src/HoverSquare.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordPlane/problem1/src/XLine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordPlane/problem2/src/XLine.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CoordPlane/problem2/src/YLine.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">

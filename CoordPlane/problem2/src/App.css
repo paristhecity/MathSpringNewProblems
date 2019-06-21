@@ -1,0 +1,58 @@
+.App {
+  text-align: left;
+  height: 600px;
+  width: 600px;
+  padding: 5%;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 16px;
+  color: black;
+  border: 2px solid lightgray;
+  box-shadow: 5px 5px lightgray;
+  padding: 1%;
+}
+
+line {
+  stroke:blue;
+  stroke-width:2;
+}
+
+.coordline {
+  stroke-width: 1;
+  pointer-events: none;
+}
+
+svg {
+  border: 2px solid lightgray;
+}
+
+.dot {
+  pointer-events: none;
+}
+
+polyline {
+  stroke: black;
+  stroke-width:2;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  fill: none;
+}
+
+.Question {
+  box-shadow: gray;
+}
+
+.Problem {
+  text-align: center;
+}
+
+input {
+  text-align: left;
+}
+
+
+
