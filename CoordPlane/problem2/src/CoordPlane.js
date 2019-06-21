@@ -40,7 +40,7 @@ class CoordPlane extends React.Component {
         }
         if(g[index] && g[index].visible){
             g.splice(index, 1);
-            if(g.length > 2)
+            if(g.length > 1)
                 g.shift();
             this.setState({dots: g});
         } else {
@@ -49,8 +49,10 @@ class CoordPlane extends React.Component {
                 dot: <Dot x={x} y={y} r={7} callbackHover={this.hoverDot} callbackLeave={this.removeDot}/>,
                 visible: true
             });
-            if(g.length > 2)
+            if(g.length > 1){
                 g.shift();
+                this.setState({dots : g});
+            }
             this.setState({dots: g});
         }
         //this.setState({dots: g});
@@ -67,8 +69,6 @@ class CoordPlane extends React.Component {
             dot: <Dot x={x} y={y} r={7} callbackHover={this.hoverDot} callbackLeave={this.removeDot}/>,
             visible: false
         });
-        if(g.length > 2)
-            g.shift();
         this.setState({dots : g});
     };
 
