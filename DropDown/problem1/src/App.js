@@ -30,7 +30,7 @@ class App extends Component {
 
     handleChange = (event) => {
         this.responses.add(event.value);
-        alert(event.value);
+        //alert(event.value);
     };
 
     render() {
