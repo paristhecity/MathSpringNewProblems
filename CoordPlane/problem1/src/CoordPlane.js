@@ -9,7 +9,7 @@ class CoordPlane extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            coordlines : [],
+            coordLines : [],
             squares : [],
             squareSize : 10,
             dots : [],
@@ -102,10 +102,10 @@ class CoordPlane extends React.Component {
         let label = 0;
 
         for(let i = 0; i < this.props.yMax; i++) {
-            this.state.coordlines.push(
+            this.state.coordLines.push(
                 <XLine className="coordline" text={label} xStart={x1} xEnd={x2} y={this.props.yPlace - this.props.yMeasure * i} color='black' windowHeight={this.props.windowHeight} windowWidth={this.props.windowWidth}/>
             );
-            this.state.coordlines.push(
+            this.state.coordLines.push(
                 <XLine className="coordline" text={label} xStart={x1} xEnd={x2} y={this.props.yPlace + this.props.yMeasure * i} color='black' windowHeight={this.props.windowHeight} windowWidth={this.props.windowWidth}/>
             );
             label++;
@@ -118,10 +118,10 @@ class CoordPlane extends React.Component {
         let label = 0;
 
         for(let i = 0; i < this.props.xMax; i++) {
-            this.state.coordlines.push(
+            this.state.coordLines.push(
                 <YLine className="coordline" text={label} x={this.props.xPlace + this.props.xMeasure * i} yStart={y1} yEnd={y2} color='black' windowHeight={this.props.windowHeight} windowWidth={this.props.windowWidth}/>
             );
-            this.state.coordlines.push(
+            this.state.coordLines.push(
                 <YLine className="coordline" text={label} x={this.props.xPlace - this.props.xMeasure * i} yStart={y1} yEnd={y2} color='black' windowHeight={this.props.windowHeight} windowWidth={this.props.windowWidth}/>
             );
             label++;
@@ -157,7 +157,7 @@ class CoordPlane extends React.Component {
 
     //RENDER FUNCTIONS
     renderCoordLines = () => {
-        return this.state.coordlines;
+        return this.state.coordLines;
     };
 
     renderHoverSquares = () => {

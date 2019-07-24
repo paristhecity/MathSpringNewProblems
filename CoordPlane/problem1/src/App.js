@@ -7,7 +7,7 @@ class App extends React.Component {
     WINDOW_HEIGHT = 500;
     WINDOW_WIDTH = 575;
     X_MAX = 10;
-    Y_MAX = 10;
+    Y_MAX = 6;
     X_START = 5;
     Y_START = 5;
     X_LENGTH = this.X_START+550;
@@ -28,7 +28,9 @@ class App extends React.Component {
             <div className="App">
                 <header className="App-header">
                     <div className="Question">
-                        Place a point on (9, 5).
+                        Plot the point (9, 5) on the coordinate plane.
+                        <br />
+                        Select the place on the coordinate plane to plot the point.
                     </div>
                     <br/>
                     <form className="Problems" onSubmit={this.handleSubmit}>

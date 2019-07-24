@@ -17,7 +17,7 @@ class App extends Component {
 
     componentWillMount = () => {
         this.responses = new Set();
-    }
+    };
 
     handleSubmit = formSubmitEvent => {
         formSubmitEvent.preventDefault();
@@ -26,12 +26,12 @@ class App extends Component {
             alert(intro + resp);
         }
 
-    }
+    };
 
     handleChange = (event) => {
         this.responses.add(event.value);
         alert(event.value);
-    }
+    };
 
     render() {
         return (

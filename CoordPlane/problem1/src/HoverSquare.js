@@ -27,7 +27,9 @@ class HoverSquare extends React.Component {
 
     render() {
         return (
-            <rect x={this.props.x} y={this.props.y} width={this.props.size} height={this.props.size} style={{fill: this.props.color}}
+            <rect x={this.props.x} y={this.props.y}
+                  width={this.props.size} height={this.props.size}
+                  style={{fill: this.props.color}}
                   onClick={this.makeCircle} onMouseEnter={this.hoverOver} onMouseLeave={this.hoverLeave}  />
         );
     }

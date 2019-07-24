@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 class Checkbox extends Component {
     state = {
         isChecked: false,
-    }
+    };
 
     toggleCheckboxChange = () => {
         const {handleCheckboxChange, label} = this.props;
@@ -14,7 +14,7 @@ class Checkbox extends Component {
             }
         ));
         handleCheckboxChange(label);
-    }
+    };
 
     render() {
         const {label} = this.props;

@@ -28,7 +28,17 @@ class App extends React.Component {
             <div className="App">
                 <header className="App-header">
                     <div className="Question">
-                        Place a point on (9, 5).
+                        Graph the line that represents this function.
+                        <br />
+                        <br />
+                            <label>
+                               <i>y</i> = <sup>3</sup>&frasl;<sub>2</sub> <i>x</i> + 2
+                            </label>
+                        <br />
+                        <br />
+                        To graph a line, select two points on the coordinate plane.
+                        A line will be drawn through the points.
+                        <br />
                     </div>
                     <br/>
                     <form className="Problems" onSubmit={this.handleSubmit}>

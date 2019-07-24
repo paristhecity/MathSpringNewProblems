@@ -34,6 +34,10 @@ svg {
   pointer-events: none;
 }
 
+.axis {
+  pointer-events: none;
+}
+
 polyline {
   stroke: black;
   stroke-width:2;
@@ -54,5 +58,11 @@ input {
   text-align: left;
 }
 
+label {
+  padding-left: 20px;
+}
 
+text{
+  pointer-events: none;
+}
 
