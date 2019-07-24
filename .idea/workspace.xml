@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f9a27f7-86e7-43cf-afd5-d1252fe89887" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem2/action_page.php" beforeDir="false" afterPath="$PROJECT_DIR$/CheckAll/problem1/action_page.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem2/check_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/CheckAll/problem1/check_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/.idea/newmathspringproblems.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/public/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/public/mathspring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/src/App.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/src/Checkbox.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/src/mathspring.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/src/serviceWorker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CheckAll/problem3/yarn.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordPlane/problem1/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordPlane/problem1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordPlane/problem1/src/CoordPlane.js" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/CoordPlane.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordPlane/problem1/src/Dot.js" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/Dot.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordPlane/problem1/src/HoverSquare.js" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem1/src/HoverSquare.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordPlane/problem2/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem2/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordPlane/problem2/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem2/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoordPlane/problem2/src/CoordPlane.js" beforeDir="false" afterPath="$PROJECT_DIR$/CoordPlane/problem2/src/CoordPlane.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DropDown/problem1/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/DropDown/problem1/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Numberline/problem1/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Numberline/problem1/src/App.css" afterDir="false" />
-    </list>
+    <list default="true" id="4f9a27f7-86e7-43cf-afd5-d1252fe89887" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -51,11 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CheckAll/problem2/src/App.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="72" selection-start-line="72" selection-end-line="72" />
+            <state relative-caret-position="210">
+              <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CheckAll/problem2/src/Checkbox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -117,7 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/DropDown/dropdown/src/App.css" />
         <option value="$PROJECT_DIR$/DropDown/dropdown/src/Menu.js" />
         <option value="$PROJECT_DIR$/CheckAll/src/App.js" />
         <option value="$PROJECT_DIR$/DropDown/dropdown/src/App.js" />
@@ -168,6 +144,7 @@
         <option value="$PROJECT_DIR$/CoordPlane/problem1/src/App.css" />
         <option value="$PROJECT_DIR$/Numberline/problem1/src/App.css" />
         <option value="$PROJECT_DIR$/DropDown/problem1/src/App.js" />
+        <option value="$PROJECT_DIR$/CheckAll/problem2/src/Checkbox.js" />
       </list>
     </option>
   </component>
@@ -193,6 +170,19 @@
               <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
               <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
               <item name="CheckAll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="CheckAll" type="462c0819:PsiDirectoryNode" />
+              <item name="problem2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MathSpringProblems" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MathSpringProblems" type="462c0819:PsiDirectoryNode" />
+              <item name="CheckAll" type="462c0819:PsiDirectoryNode" />
+              <item name="problem2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -368,7 +358,7 @@
       <workItem from="1559330679914" duration="44025000" />
       <workItem from="1560449502794" duration="75353000" />
       <workItem from="1562693670818" duration="252000" />
-      <workItem from="1563551478778" duration="5210000" />
+      <workItem from="1563551478778" duration="5486000" />
     </task>
     <servers />
   </component>
@@ -387,7 +377,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="238163000" />
+    <option name="totallyTimeSpent" value="238439000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -402,13 +392,13 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6890411" visible="true" weight="0.30420968" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6879562" visible="true" weight="0.30420968" />
       <window_info id="Structure" order="1" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
       <window_info id="Favorites" order="2" sideWeight="0.2955032" side_tool="true" weight="0.2867355" />
-      <window_info id="npm" order="3" sideWeight="0.3109589" side_tool="true" visible="true" weight="0.30420968" />
+      <window_info id="npm" order="3" sideWeight="0.3120438" side_tool="true" visible="true" weight="0.30420968" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4932486" weight="0.24931507" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4932486" visible="true" weight="0.24931507" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49960285" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -741,16 +731,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CheckAll/problem2/src/Checkbox.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DropDown/problem1/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-156">
@@ -826,8 +806,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CheckAll/problem2/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="72" selection-start-line="72" selection-end-line="72" />
+        <state relative-caret-position="210">
+          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CheckAll/problem2/src/Checkbox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
