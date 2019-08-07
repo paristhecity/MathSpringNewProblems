@@ -23,10 +23,11 @@ class Arc extends Component {
 
     render() {
         let trans = "rotate("+this.props.rotate+"deg) skewY("+this.props.skew+"deg)";
-        //let trans2 = "skewY("+ 190 +"deg)";
-
         return (
-            <div className="arc" onClick={this.fillArc} style={{background: this.state.background, transform: trans}}>
+            <div className="arc"
+                 onClick={this.fillArc}
+                 style={{background: this.state.background,
+                     transform: trans}}>
             </div>
         );
     }

@@ -55,14 +55,20 @@ class NumberLine extends React.Component {
     render() {
         let arrowEnd = this.props.lineLength - 5;
         let arrowStart = this.props.lineStart + 5;
-        let arrowEndPoints = arrowEnd +" "+(this.props.lineY - 5)+" "+this.props.lineLength+" "+this.props.lineY+" "+arrowEnd+" "+(this.props.lineY + 5)
-        let arrowStartPoints = arrowStart +" "+(this.props.lineY - 5)+" "+this.props.lineStart+" "+this.props.lineY+" "+arrowStart+" "+(this.props.lineY + 5)
+        let arrowEndPoints = arrowEnd +" "+(this.props.lineY - 5)+" "
+            +this.props.lineLength+" "+this.props.lineY+" "
+            +arrowEnd+" "+(this.props.lineY + 5);
+        let arrowStartPoints = arrowStart +" "+(this.props.lineY - 5)+" "
+            +this.props.lineStart+" "+this.props.lineY+" "
+            +arrowStart+" "+(this.props.lineY + 5);
         this.makeTicks();
 
         return(
             <div className="numberline">
                 <svg height={this.props.windowHeight} width={this.props.windowWidth}>
-                    <line  x1="5" y1={this.props.lineY} x2={this.props.lineLength} y2={this.props.lineY} style={{stroke: this.props.color}}/>
+                    <line  x1="5" y1={this.props.lineY}
+                           x2={this.props.lineLength} y2={this.props.lineY}
+                           style={{stroke: this.props.color}}/>
                     <polyline points={arrowStartPoints} style={{stroke: this.props.color}}/>
                     <polyline points={arrowEndPoints} style={{stroke: this.props.color}}/>
                     {this.renderTickMarks()}

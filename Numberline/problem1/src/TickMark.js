@@ -60,7 +60,10 @@ class TickMark extends React.Component {
                 {(this.props.number < 0) ?
                     <text x={textPosX} y={textY}> {this.props.number} </text> :
                     <text x={textNegX} y={textY}> {this.props.number} </text>}
-                <line x1={this.props.x} y1={tickTop} x2={this.props.x} y2={tickBottom} style={{stroke: this.state.fill}} onMouseEnter={this.hoverOver} onMouseLeave={this.hoverLeave} onClick={this.makeCircle}/>
+                <line x1={this.props.x} y1={tickTop}
+                      x2={this.props.x} y2={tickBottom}
+                      style={{stroke: this.state.fill}}
+                      onMouseEnter={this.hoverOver} onMouseLeave={this.hoverLeave} onClick={this.makeCircle}/>
             </svg>
         );
     }

@@ -2,8 +2,6 @@ import React, {Component} from 'react';
 import "./App.css";
 import Arc from "./Arc";
 
-//import { Fraction } from 'algebra.js';
-
 class Circle extends Component {
 
     constructor(props) {
@@ -64,7 +62,9 @@ class Circle extends Component {
                     &nbsp;
                     <button className="More" enabled="true" type="button" onClick={this.splitArc} >More</button>
                     &nbsp;
-                    <button className="Less" enabled="true" type="button" onClick={this.mergeArc} disabled>Less</button>
+                    <button className="Less" enabled="true" type="button" onClick={this.mergeArc} disabled>
+                        Less
+                    </button>
                 </div>
             </div>
 

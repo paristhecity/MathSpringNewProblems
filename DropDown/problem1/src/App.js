@@ -30,7 +30,6 @@ class App extends Component {
 
     handleChange = (event) => {
         this.responses.add(event.value);
-        //alert(event.value);
     };
 
     render() {
@@ -44,22 +43,33 @@ class App extends Component {
                     <form className="Problems" onSubmit={this.handleSubmit}>
                         <div className="Problem">
                             <label> 2.09 </label>
-                            <Dropdown className="One" options={options} onChange={this.handleChange} placeholder="Select an option" value={this.state.value}/>
+                            <Dropdown className="One"
+                                      options={options}
+                                      onChange={this.handleChange}
+                                      placeholder="Select an option"
+                                      value={this.state.value}/>
                             <label> 2.12 </label>
                         </div>
                         <br />
                         <div className="Problem">
                             <label> 8.10 </label>
-                            <Dropdown className="Two" options={options} onChange={this.handleChange} placeholder="Select an option" value={this.state.value}/>
+                            <Dropdown className="Two"
+                                      options={options}
+                                      onChange={this.handleChange}
+                                      placeholder="Select an option"
+                                      value={this.state.value}/>
                             <label> 8.1 </label>
                         </div>
                         <br />
                         <div className="Problem">
                             <label> 6.78 </label>
-                            <Dropdown className="Three" options={options} onChange={this.handleChange} placeholder="Select an option" value={this.state.value}/>
+                            <Dropdown className="Three"
+                                      options={options}
+                                      onChange={this.handleChange}
+                                      placeholder="Select an option"
+                                      value={this.state.value}/>
                             <label> 6.7 </label>
                         </div>
-
                         <br />
                         <input type="submit" value="Submit"/>
                     </form>

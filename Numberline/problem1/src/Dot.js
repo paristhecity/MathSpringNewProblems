@@ -41,8 +41,14 @@ class Dot extends React.Component {
     render() {
         return (
             (this.state.showCircle) ?
-                <circle cx={this.props.x} cy={this.props.y} r={this.props.r} style={{fill: this.state.circleFill}} onMouseEnter={this.hoverOver} onMouseLeave={this.hoverLeave} onClick={this.changeCircleVisibility} /> :
-                <circle cx={this.props.x} cy={this.props.y} r={this.props.r} style={{fill: 'none'}} onMouseEnter={this.hoverOver} onMouseLeave={this.hoverLeave} onClick={this.changeCircleVisibility} />
+                <circle cx={this.props.x} cy={this.props.y} r={this.props.r}
+                        style={{fill: this.state.circleFill}}
+                        onMouseEnter={this.hoverOver} onMouseLeave={this.hoverLeave}
+                        onClick={this.changeCircleVisibility} /> :
+                <circle cx={this.props.x} cy={this.props.y} r={this.props.r}
+                        style={{fill: 'none'}}
+                        onMouseEnter={this.hoverOver} onMouseLeave={this.hoverLeave}
+                        onClick={this.changeCircleVisibility} />
         );
     }
 

@@ -103,10 +103,14 @@ class CoordPlane extends React.Component {
 
         for(let i = 0; i < this.props.yMax; i++) {
             this.state.coordLines.push(
-                <XLine className="coordline" text={label} xStart={x1} xEnd={x2} y={this.props.yPlace - this.props.yMeasure * i} color='black' windowHeight={this.props.windowHeight} windowWidth={this.props.windowWidth}/>
+                <XLine className="coordline" text={label} xStart={x1} xEnd={x2}
+                       y={this.props.yPlace - this.props.yMeasure * i} color='black'
+                       windowHeight={this.props.windowHeight} windowWidth={this.props.windowWidth}/>
             );
             this.state.coordLines.push(
-                <XLine className="coordline" text={label} xStart={x1} xEnd={x2} y={this.props.yPlace + this.props.yMeasure * i} color='black' windowHeight={this.props.windowHeight} windowWidth={this.props.windowWidth}/>
+                <XLine className="coordline" text={label} xStart={x1} xEnd={x2}
+                       y={this.props.yPlace + this.props.yMeasure * i} color='black'
+                       windowHeight={this.props.windowHeight} windowWidth={this.props.windowWidth}/>
             );
             label++;
         }
@@ -119,40 +123,51 @@ class CoordPlane extends React.Component {
 
         for(let i = 0; i < this.props.xMax; i++) {
             this.state.coordLines.push(
-                <YLine className="coordline" text={label} x={this.props.xPlace + this.props.xMeasure * i} yStart={y1} yEnd={y2} color='black' windowHeight={this.props.windowHeight} windowWidth={this.props.windowWidth}/>
+                <YLine className="coordline" text={label} x={this.props.xPlace + this.props.xMeasure * i}
+                       yStart={y1} yEnd={y2} color='black'
+                       windowHeight={this.props.windowHeight} windowWidth={this.props.windowWidth}/>
             );
             this.state.coordLines.push(
-                <YLine className="coordline" text={label} x={this.props.xPlace - this.props.xMeasure * i} yStart={y1} yEnd={y2} color='black' windowHeight={this.props.windowHeight} windowWidth={this.props.windowWidth}/>
+                <YLine className="coordline" text={label} x={this.props.xPlace - this.props.xMeasure * i}
+                       yStart={y1} yEnd={y2} color='black'
+                       windowHeight={this.props.windowHeight} windowWidth={this.props.windowWidth}/>
             );
             label++;
         }
     };
 
     makeArrowLines = () => {
-
         let arrowEndX = this.props.xLength - 5;
         let arrowStartX = this.props.xStart + 5;
-        let arrowEndPointsX = arrowEndX+" "+(this.props.yPlace - 5)+" "+this.props.xLength+" "+this.props.yPlace+" "+arrowEndX+" "+(this.props.yPlace + 5);
-        let arrowStartPointsX = arrowStartX+" "+(this.props.yPlace - 5)+" "+this.props.xStart+" "+this.props.yPlace+" "+arrowStartX+" "+(this.props.yPlace + 5);
+        let arrowEndPointsX = arrowEndX+" "+(this.props.yPlace - 5)+" "
+            +this.props.xLength+" "+this.props.yPlace+" "
+            +arrowEndX+" "+(this.props.yPlace + 5);
+        let arrowStartPointsX = arrowStartX+" "+(this.props.yPlace - 5)+" "
+            +this.props.xStart+" "+this.props.yPlace+" "
+            +arrowStartX+" "+(this.props.yPlace + 5);
 
         let arrowEndY = this.props.yLength - 5;
         let arrowStartY = this.props.yStart + 5;
-        let arrowEndPointsY = (this.props.xPlace - 5)+" "+arrowEndY+" "+this.props.xPlace+" "+this.props.yLength+" "+(this.props.xPlace + 5)+" "+arrowEndY;
-        let arrowStartPointsY = (this.props.xPlace - 5)+" "+arrowStartY+" "+this.props.xPlace+" "+this.props.yStart+" "+(this.props.xPlace + 5)+" "+arrowStartY;
-
+        let arrowEndPointsY = (this.props.xPlace - 5)+" "+arrowEndY+" "
+            +this.props.xPlace+" "+this.props.yLength+" "
+            +(this.props.xPlace + 5)+" "+arrowEndY;
+        let arrowStartPointsY = (this.props.xPlace - 5)+" "+arrowStartY+" "
+            +this.props.xPlace+" "+this.props.yStart+" "
+            +(this.props.xPlace + 5)+" "+arrowStartY;
 
         return (
             <svg height={this.props.windowHeight} width={this.props.windowWidth}>
-                <line x1={this.props.xStart} y1={this.props.yPlace} x2={this.props.xLength} y2={this.props.yPlace} style={{stroke: this.props.color}}/>
+                <line x1={this.props.xStart} y1={this.props.yPlace}
+                      x2={this.props.xLength} y2={this.props.yPlace} style={{stroke: this.props.color}}/>
                 <polyline points={arrowStartPointsX} style={{stroke: this.props.color}}/>
                 <polyline points={arrowEndPointsX} style={{stroke: this.props.color}}/>
 
-                <line x1={this.props.xPlace} y1={this.Y_START} x2={this.props.xPlace} y2={this.props.yLength} style={{stroke: this.props.color}}/>
+                <line x1={this.props.xPlace} y1={this.Y_START}
+                      x2={this.props.xPlace} y2={this.props.yLength} style={{stroke: this.props.color}}/>
                 <polyline points={arrowStartPointsY} style={{stroke: this.props.color}}/>
                 <polyline points={arrowEndPointsY} style={{stroke: this.props.color}}/>
             </svg>
         );
-
     };
 
     //RENDER FUNCTIONS

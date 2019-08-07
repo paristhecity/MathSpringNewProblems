@@ -38,10 +38,14 @@ class Square extends Component {
 
     render() {
         return (
-            <div className="square" onClick={this.fillSquare} style={{background: this.state.background, width: this.props.width}}>
+            <div className="square"
+                 onClick={this.fillSquare}
+                 style={{background: this.state.background,
+                     width: this.props.width}}>
             </div>
         );
     }
 }
 
 export default Square;
+

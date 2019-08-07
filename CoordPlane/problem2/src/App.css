@@ -26,10 +26,6 @@ line {
   pointer-events: none;
 }
 
-svg {
-  border: 2px solid lightgray;
-}
-
 .dot {
   pointer-events: none;
 }

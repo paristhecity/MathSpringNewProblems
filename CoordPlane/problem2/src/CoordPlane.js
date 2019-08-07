@@ -41,8 +41,6 @@ class CoordPlane extends React.Component {
         }
         if(g[index] && g[index].visible){
             g.splice(index, 1);
-            //if(g.length > 2)
-            //    g.shift();
             this.clearArrow();
             this.setState({dots: g});
         } else {
@@ -55,11 +53,17 @@ class CoordPlane extends React.Component {
             });
             if(g.length > 2){
                 g.splice(g.length-2, 1);
-                this.makeArrowLine(this.state.dots[0].x, this.state.dots[0].y, this.state.dots[this.state.dots.length-1].x, this.state.dots[this.state.dots.length-1].y);
+                this.makeArrowLine(this.state.dots[0].x,
+                    this.state.dots[0].y,
+                    this.state.dots[this.state.dots.length-1].x,
+                    this.state.dots[this.state.dots.length-1].y);
                 this.setState({dots : g});
             }
             else if(g.length > 1) {
-                this.makeArrowLine(this.state.dots[0].x, this.state.dots[0].y, this.state.dots[this.state.dots.length-1].x, this.state.dots[this.state.dots.length-1].y);
+                this.makeArrowLine(this.state.dots[0].x,
+                    this.state.dots[0].y,
+                    this.state.dots[this.state.dots.length-1].x,
+                    this.state.dots[this.state.dots.length-1].y);
             }
             this.setState({dots: g});
         }
@@ -154,6 +158,7 @@ class CoordPlane extends React.Component {
 
         if(!(isNaN(m) || Math.abs(m) === Infinity))
         {
+            //Slope Calculations
             lineStartX = this.props.xStart;
             lineStartY = m*lineStartX+b;
             if(lineStartY >= this.props.yLength) {
@@ -180,15 +185,11 @@ class CoordPlane extends React.Component {
                 multiplier = -1;
             }
 
+            //Angle Calculations
             let angle = Math.atan(-m);
-
-            //alert(angle);
 
             let subAngle1 = (Math.PI/4) - angle;
             let subAngle2 = (Math.PI/4) + angle;
-
-            //alert(subAngle1);
-            //alert(subAngle2);
 
             let subLine = 10;
             subLineXL = subLine*Math.sin(subAngle2);
@@ -196,6 +197,7 @@ class CoordPlane extends React.Component {
             subLineXR = subLine*Math.sin(subAngle1);
             subLineYR = subLine*Math.cos(subAngle1);
         } else {
+            //Horizontal and Vertical Lines
             lineStartX = x1;
             lineStartY = this.props.yLength;
             lineEndX = x1;
@@ -206,9 +208,7 @@ class CoordPlane extends React.Component {
             subLineXR = -5;
             subLineYR = 5;
         }
-
-        //alert(subLineXL);
-
+        
         let arrowEndXL = lineEndX - multiplier*subLineXL;
         let arrowEndYL = lineEndY - multiplier*subLineYL;
         let arrowEndXR = lineEndX - multiplier*subLineXR;
@@ -226,7 +226,7 @@ class CoordPlane extends React.Component {
 
 
         a.push(<line x1={lineStartX} y1={lineStartY} x2={lineEndX} y2={lineEndY} style={{stroke: "black"}}/>);
-        a.push(<polyline points={arrowEndPoints} style={{stroke: "red"}}/>);
+        a.push(<polyline points={arrowEndPoints} style={{stroke: "black"}}/>);
         a.push(<polyline points={arrowStartPoints} style={{stroke: "black"}}/>);
 
 
